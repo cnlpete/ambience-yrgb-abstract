@@ -1,0 +1,19 @@
+{
+    "translationCatalog"        : "ambience-yrgb-abstract",
+    "displayName"               : "Yellow",
+    "wallpaper"                 : "ambience_yellow.jpg",
+    "highlightColor"            : "#fff8ff14",
+    "secondaryHighlightColor"   : "#ffffde81",
+    "primaryColor"              : "#FFFFFFFF",
+    "secondaryColor"            : "#EAE20FFF",
+    "ringerVolume"              : 60,
+    "favorite"					: true,
+    "version"                   : 2,
+    "ringerToneFile"            : { "file": "yrgb-ringtone.wav",	"enabled": 1 },
+    "messageToneFile"           : { "file": "yrgb-message.wav",		"enabled": 1 },
+    "mailToneFile"              : { "file": "yrgb-email.wav",		"enabled": 1 },
+    "internetCallToneFile"      : { "file": "yrgb-ringtone.wav",	"enabled": 1 },
+    "chatToneFile"              : { "file": "yrgb-im.wav",			"enabled": 1 },
+    "calendarToneFile"          : { "file": "yrgb-calendar.wav",	"enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "yrgb-alarm.wav",		"enabled": 1 }
+}

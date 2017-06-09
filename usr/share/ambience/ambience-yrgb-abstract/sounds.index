@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-yrgb-abstract",
+    "files" : [
+        { "displayName" : "yrgb-ringtone", 		"fileName" : "yrgb-ringtone.wav" },
+        { "displayName" : "yrgb-im", 			"fileName" : "yrgb-im.wav" },
+        { "displayName" : "yrgb-email", 		"fileName" : "yrgb-email.wav" },
+        { "displayName" : "yrgb-message", 		"fileName" : "yrgb-message.wav" },
+        { "displayName" : "yrgb-calendar", 		"fileName" : "yrgb-calendar.wav" },
+        { "displayName" : "yrgb-alarm", 		"fileName" : "yrgb-alarm.wav" }
+    ]
+}
