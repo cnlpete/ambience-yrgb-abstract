@@ -18,5 +18,5 @@ A series different colored ambiences based on abstract background images.
 /usr/share/ambience/*
 
 %changelog
-* 2017-06-10 0.1
+* Sat Jun 10 2017 0.1
 - Initial release.
