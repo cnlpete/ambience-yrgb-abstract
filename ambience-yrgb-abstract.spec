@@ -5,7 +5,7 @@ Summary:       Four different colored ambiences
 Group:         System/Tools
 Vendor:        eson
 Distribution:  SailfishOS
-Packager:      eson <eson@svenskasprakfiler.se>
+Packager:      eson
 URL:           https://svenskasprakfiler.se
 
 License:       GPL
