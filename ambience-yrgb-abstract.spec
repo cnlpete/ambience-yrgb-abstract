@@ -6,7 +6,7 @@ Group:         System/Tools
 Vendor:        eson
 Distribution:  SailfishOS
 Packager:      eson
-URL:           https://svenskasprakfiler.se
+URL:           https://openrepos.net/content/eson/ambience-yrgb-abstract
 
 License:       GPL
 
